@@ -1,3 +1,5 @@
+// перевод из 13-й в 3-ю систему изчисления
+
 #include <iostream>
 #include <string>
 #include <cmath>
